@@ -1,0 +1,54 @@
+filename,preposotion_num,preposotion_ratio,preposotion_MDD_doc,postposotion_num,postposotion_ratio,postposotion_MDD_doc,MDD_doc,Diversity,Description
+1000025.txt,3.0,0.75,25.0,1.0,0.25,3.5,28.5,4,"['2008', 'daily', 'last month', 'today']"
+1000168.txt,1.0,1.0,9.5,0.0,0.0,0.0,9.5,1,['these days']
+1000235.txt,0.0,0.0,0.0,1.0,1.0,10.5,10.5,1,['working day']
+1000276.txt,0.0,0.0,0.0,1.0,1.0,9.5,9.5,1,['these days']
+1000392.txt,1.0,0.5,10.0,1.0,0.5,2.5,12.5,2,"['these days', '50 years ago']"
+1000599.txt,1.0,1.0,3.0,0.0,0.0,0.0,3.0,1,['the current day']
+1000617.txt,0.0,0.0,0.0,1.0,1.0,11.0,11.0,1,['today']
+100082.txt,0.0,0.0,0.0,1.0,1.0,11.5,11.5,1,['about it years ago']
+100101.txt,0.0,0.0,0.0,3.0,1.0,15.0,15.0,3,"['summer', 'today', 'many years ago']"
+1001213.txt,0.0,0.0,0.0,8.0,1.0,97.0,97.0,4,"['twenty years', 'today', 'the year two thousand', 'twenty years ago']"
+100132.txt,3.0,0.75,47.0,1.0,0.25,8.0,55.0,2,"['twenty years', 'today']"
+1001502.txt,2.0,0.4,20.0,3.0,0.6,55.5,75.5,5,"['more than a month', 'every morning', 'all day', 'some day', 'that month']"
+1001566.txt,1.0,0.5,48.5,1.0,0.5,5.0,53.5,2,"['everyday', 'the day']"
+1001574.txt,1.0,0.5,28.0,1.0,0.5,1.5,29.5,2,"['the days', 'today']"
+1001632.txt,0.0,0.0,0.0,2.0,1.0,5.0,5.0,2,"['six hours', 'many hours']"
+10017.txt,1.0,0.5,6.5,1.0,0.5,4.5,11.0,2,"['three years', 'this month']"
+1001901.txt,0.0,0.0,0.0,1.0,1.0,3.5,3.5,1,['one day']
+1002453.txt,2.0,0.25,8.0,6.0,0.75,138.0,146.0,4,"['twenty years', 'today', 'those twenty years', 'the next twenty years']"
+1002561.txt,3.0,0.3,27.5,7.0,0.7,181.5,209.0,4,"['the next twenty years', 'today', 'olden days', 'the nineteenth century']"
+1002932.txt,1.0,0.3333333333333333,8.5,2.0,0.6666666666666666,25.5,34.0,3,"['some day', 'two years', 'noon']"
+1002985.txt,1.0,0.25,6.0,3.0,0.75,38.0,44.0,4,"['their days', 'the days', 'the best days', 'about the days']"
+1003126.txt,3.0,0.375,23.0,5.0,0.625,90.5,113.5,3,"['today', 'twenty years', '50 years ago']"
+1003331.txt,1.0,1.0,5.0,0.0,0.0,0.0,5.0,1,['today']
+1003423.txt,2.0,1.0,5.0,0.0,0.0,0.0,5.0,1,['today']
+1003553.txt,0.0,0.0,0.0,4.0,1.0,31.0,31.0,2,"['twenty years', 'today']"
+1003689.txt,3.0,0.5,6.0,3.0,0.5,35.0,41.0,3,"['twenty years', 'today', 'each year']"
+1003939.txt,1.0,0.25,45.5,3.0,0.75,42.0,87.5,4,"['today', 'hundreds of years ago', 'weeks', 'months']"
+1004135.txt,0.0,0.0,0.0,1.0,1.0,5.0,5.0,1,['the 18th century']
+100416.txt,0.0,0.0,0.0,2.0,1.0,19.5,19.5,2,"['every weekend', 'the whole week']"
+1004306.txt,4.0,1.0,14.5,0.0,0.0,0.0,14.5,3,"['twenty years later', 'recent years', 'today']"
+1004355.txt,1.0,0.3333333333333333,17.5,2.0,0.6666666666666666,11.0,28.5,2,"['today', 'every day']"
+1004476.txt,1.0,1.0,2.5,0.0,0.0,0.0,2.5,1,['about 75 year old']
+1004652.txt,1.0,0.5,6.0,1.0,0.5,3.5,9.5,2,"['some years ago', 'one day']"
+100483.txt,1.0,1.0,5.0,0.0,0.0,0.0,5.0,1,['today']
+1005053.txt,1.0,1.0,3.0,0.0,0.0,0.0,3.0,1,['my college days']
+100513.txt,0.0,0.0,0.0,1.0,1.0,10.5,10.5,1,['many months or years']
+1005231.txt,3.0,0.75,18.0,1.0,0.25,13.0,31.0,3,"['7', '8', '9']"
+1005473.txt,1.0,0.25,3.0,3.0,0.75,37.5,40.5,3,"['daily', 'twenty years', 'today']"
+1005551.txt,0.0,0.0,0.0,1.0,1.0,7.0,7.0,1,['years']
+1005569.txt,0.0,0.0,0.0,2.0,1.0,13.0,13.0,2,"['the day', 'the age of almost eighty years']"
+1005751.txt,0.0,0.0,0.0,6.0,1.0,92.0,92.0,6,"['the next twenety years', 'daily', 'next 40 and 60 years', 'each year', 'the next twenty years', 'the end of the']"
+1005775.txt,1.0,1.0,9.5,0.0,0.0,0.0,9.5,1,['our day']
+1005891.txt,0.0,0.0,0.0,1.0,1.0,12.5,12.5,1,['the coming twenty years']
+1005942.txt,2.0,0.2,22.5,8.0,0.8,99.0,121.5,7,"['twenty years', 'today', 'about 20 years', 'fifteen years', 'only fifteen years', 'daily', 'the next twenty years']"
+1006179.txt,0.0,0.0,0.0,2.0,1.0,13.0,13.0,1,['this days']
+1006246.txt,1.0,0.25,13.0,3.0,0.75,47.0,60.0,3,"['twenty years', 'some years ago', 'last many years']"
+100625.txt,0.0,0.0,0.0,1.0,1.0,8.5,8.5,1,['every day']
+1006416.txt,2.0,1.0,9.0,0.0,0.0,0.0,9.0,2,"['the centuries', 'the years']"
+1006488.txt,0.0,0.0,0.0,2.0,1.0,43.5,43.5,2,"['an exhausting day', 'their weekends']"
+1006535.txt,0.0,0.0,0.0,1.0,1.0,11.5,11.5,1,['a year']
+1007363.txt,2.0,1.0,15.5,0.0,0.0,0.0,15.5,2,"['years', 'now days']"
+100765.txt,0.0,0.0,0.0,2.0,1.0,25.0,25.0,1,['today']
+100791.txt,0.0,0.0,0.0,1.0,1.0,4.0,4.0,1,['daily']
